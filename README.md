@@ -9,6 +9,7 @@ It is designed for applications like:
 Farmland protection 
 Wildlife intrusion detection 
 Smart surveillance systems 
+
 Features
 Real-time webcam monitoring
 AI-based classification using MobileNetV2
